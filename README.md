@@ -1,2 +1,2 @@
 # restaurant
-Restaurant web template create by G_Robbani
+This is a Restaurant web template[Static not Responsive template] create by G_Robbani.
